@@ -1,4 +1,4 @@
-*
+/*
  * Copyright 2013 Michael Ossmann <mike@ossmann.com>
  *
  * This file is part of HackRF.
