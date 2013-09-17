@@ -47,6 +47,7 @@ struct armv7m_scb_t {
 	volatile uint32_t MMFAR;
 	volatile uint32_t BFAR;
 	volatile uint32_t AFSR;
+	volatile uint32_t SFSR;
 	volatile const uint32_t ID_PFR0;
 	volatile const uint32_t ID_PFR1;
 	volatile const uint32_t ID_DFR0;
